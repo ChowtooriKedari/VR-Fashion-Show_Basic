@@ -5,3 +5,5 @@ Virtual Reality in the field of marketing can bring a lot of changes in sales an
 One can use VR to offer a digital experience in place of a physical one, which can promote products and services. In this project we find how customers engage 
 themselves in VR/VR 360 Environment Simulations (Fashion Show in our case). Using ZMET technique, the work focused on three themes like VR as democratization, 
 VR as embodied escapism, and VR as actualized anxiety. Analysis was further carried out in a hermeneutic approach that explains the experiential gestalt.
+
+The 360 Degree video can be found here : https://www.youtube.com/watch?v=eAfRn7lY0aw
